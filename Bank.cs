@@ -10,5 +10,7 @@ public class Bank
         Console.WriteLine("Your balance is: " + bank.GetBalance());
 
         Savingsaccount savings = new Savingsaccount();
+        savings.Withdraw(200);
+        savings.Deposit(300);
     }
 }
