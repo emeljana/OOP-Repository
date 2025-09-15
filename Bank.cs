@@ -1,21 +1,14 @@
-using System.Runtime;
+﻿using System;
 
 public class Bank
 {
-    private int Balance;
-
-    public Bank(int balance)
+    static void Main(string[] args)
     {
-        Balance = balance;
-    }
+        Bankaccount bank = new Bankaccount(1000);
+        bank.Deposit(100);
+        bank.Withdraw(50);
+        Console.WriteLine("Your balance is: " + bank.GetBalance());
 
-    public void Deposit()
-    {
-        Console.WriteLine("You deposited " + Balance);
-    }
-
-    public void Withdraw()
-    {
-        Console.WriteLine("You withdrew " + Balance);
+        Savingsaccount savings = new Savingsaccount();
     }
 }
