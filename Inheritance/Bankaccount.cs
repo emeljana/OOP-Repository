@@ -10,13 +10,13 @@ public class Bankaccount
         Balance = balance;
     }
 
-    public void Deposit(int amount)
+    public virtual void Deposit(int amount)
     {
         Balance += amount;
         Console.WriteLine("You deposited " + amount);
     }
 
-    public void Withdraw(int amount)
+    public virtual void Withdraw(int amount)
     {
         if (Balance < amount)
         {
