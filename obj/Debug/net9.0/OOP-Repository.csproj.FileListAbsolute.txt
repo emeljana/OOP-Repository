@@ -1,0 +1,15 @@
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/bin/Debug/net9.0/OOP-Repository
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/bin/Debug/net9.0/OOP-Repository.deps.json
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/bin/Debug/net9.0/OOP-Repository.runtimeconfig.json
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/bin/Debug/net9.0/OOP-Repository.dll
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/bin/Debug/net9.0/OOP-Repository.pdb
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.AssemblyInfoInputs.cache
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.AssemblyInfo.cs
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.csproj.CoreCompileInputs.cache
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.sourcelink.json
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.dll
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/refint/OOP-Repository.dll
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.pdb
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/OOP-Repository.genruntimeconfig.cache
+/Users/emeliehalgh/projects/emeljana/Objektexercises/OOP-Repository/obj/Debug/net9.0/ref/OOP-Repository.dll
